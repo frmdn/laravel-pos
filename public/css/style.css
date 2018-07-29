@@ -1,0 +1,48 @@
+body {
+  padding-top: 5rem;
+}
+
+.main-container {
+  background-image: url('../img/bg-page.png');
+  background-repeat: no-repeat;
+  /*background-attachment: scroll;*/
+  background-position: bottom center;
+  background-size: cover;
+}
+
+.home-content {
+  padding: 100px 0px;
+}
+
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+.bg-siangsa {
+	background-color: #fa8900 !important;
+}
+
+.btn-warning {
+  color: #ffffff;
+  background-color: #fa8900;
+  border-color: #fa8900;
+}
+
+.btn-success{
+  color: #ffffff;
+  background-color: #06b306;
+  border-color: #06b306;
+}
+
+.btn-width-home {
+  width: 200px;
+  margin-top: 10px;
+}
+
+footer {
+	background-color: #fa8900;
+	color: white;
+	padding-top: 15px;
+	padding-bottom: 5px;
+}
